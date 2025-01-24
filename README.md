@@ -32,7 +32,6 @@ Bati Bank, a leading financial institution, is introducing a "Buy Now, Pay Later
    ```bash
    pip install -r requirements.txt
    ```
-
 ## Usage
 1. **Data Preprocessing:**
    - Run the script to ingest and preprocess transactional data:
