@@ -9,7 +9,7 @@ Bati Bank, a leading financial institution, is introducing a "Buy Now, Pay Later
 - Development of a predictive model for risk scoring.
 - Translation of risk probabilities into actionable credit scores.
 - Insights to optimize loan amounts and durations.
-
+  
 ## Tech Stack
 - **Python**: Data preprocessing, EDA, and model development.
 - **Pandas & NumPy**: Data manipulation and analysis.
