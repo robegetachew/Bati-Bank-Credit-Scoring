@@ -48,7 +48,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) and Feature E
 |       __init__.py
 |       
 \---tests
-```
+
 ## Exploratory Data Analysis (EDA)
 ### Overview of the Data
 Understand the structure of the dataset, including:
