@@ -2,15 +2,12 @@
 
 `eda.ipynb` is a Jupyter Notebook designed to demonstrate the application of the `eda_analysis.py` module for exploratory data analysis (EDA). The notebook provides a structured, step-by-step workflow to analyze a dataset and derive meaningful insights.
 ## Features
-
 This notebook includes:
-
 - Loading and exploring the dataset.
 - Generating summary statistics for numerical columns.
 - Visualizing distributions of numerical and categorical features.
 - Performing correlation analysis to identify relationships between numerical features.
 - Detecting missing values and outliers in the dataset.
-
 ## Installation and Requirements
 
 ### Prerequisites
