@@ -1,0 +1,1 @@
+pip install pandas matplotlib seaborn streamlit joblib Scikit-learn fastapi pydantic category_encoders OneHotEncoder LabelEncoder
