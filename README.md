@@ -113,6 +113,7 @@ Hyperparameter Tuning
 Enhance model performance through hyperparameter tuning using techniques like:
 Grid Search
 Random Search
+
 ### Model Evaluation
 Assess model performance using metrics such as:
 Accuracy: Ratio of correctly predicted observations to total observations.
