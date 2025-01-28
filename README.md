@@ -75,7 +75,7 @@ Total Transaction Amount: Sum of all transaction amounts for each customer.
 Average Transaction Amount: Average transaction amount per customer.
 Transaction Count: Number of transactions per customer.
 Standard Deviation of Transaction Amounts: Variability of transaction amounts per customer.
-### Extract Features
+### Extract Feature
 Examples:
 Transaction Hour: Hour when the transaction occurred.
 Transaction Day: Day of the month when the transaction occurred.
